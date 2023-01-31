@@ -3,7 +3,13 @@
 - 💻 Cursando Sistemas de Informação na UFMG.
 - Estudando C++
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=henriquep122&theme=blue-green&hide_border=false)<br/>
+<div style="display: inline_block" align="center">
+  <a href="https://github.com/henriquep122"></a>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=henriquep122&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquep122&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+<br/>
 
 <div style="display: inline_block" align="center"> 
   <h2 align="center"> Tecnologias </h2>
