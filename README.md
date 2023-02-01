@@ -9,7 +9,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquep122&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-<br/>
+
 
 <div style="display: inline_block" align="center"> 
   <h2 align="center"> Tecnologias </h2>
@@ -26,7 +26,7 @@
 </div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=henriquep122&bg_color=020a26&color=5dc265&line=4991de&point=5dc265&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
+
 
   
   
