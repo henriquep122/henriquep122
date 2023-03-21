@@ -1,7 +1,7 @@
 <h1 align="center"> 👋 Hello, world! </h1> 
 
-- 💻 Cursando Sistemas de Informação na UFMG.
-- Estudando C++
+- 💻 Cursando Sistemas de Informação.
+- Estudando C++, HTML, CSS e JavaScript.
 
 <div style="display: inline_block" align="center">
   <a href="https://github.com/henriquep122"></a>
